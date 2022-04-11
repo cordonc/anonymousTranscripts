@@ -1,0 +1,19 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: rgb(109, 109, 250);
+    font-family: VCROSDMONO;
+
+  }
+  h2 {
+    color:rgb(167, 6, 6);
+    font-family: VCROSDMONO;
+  }
+  p {
+    color: rgb(181, 7, 33);
+    font-family: VCROSDMONO;
+    font-size: 100%;
+
+
+  }
